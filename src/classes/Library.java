@@ -24,6 +24,5 @@ public class Library implements Serializable {
         return total;
     }
 
-
 }
 

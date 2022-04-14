@@ -1,5 +1,6 @@
 package classes;
 
+
 public class Reader {
     int age;
     long phone_nr;
