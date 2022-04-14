@@ -1,6 +1,5 @@
 package classes;
 
-
 public class Reader {
     int age;
     long phone_nr;
@@ -59,9 +58,4 @@ public class Reader {
         this.email = email;
     }
 
-
-
-
-
-
-    }
+}

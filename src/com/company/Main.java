@@ -1,4 +1,4 @@
-package com.company
+package com.company;
 import classes.Books;
 import classes.BookGenres;
 import classes.Librarian;
@@ -30,18 +30,6 @@ public class Main {
         System.out.println(b1);
         System.out.println(b2);
         System.out.println(b3);
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
