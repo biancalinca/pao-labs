@@ -59,8 +59,5 @@ package classes;
             this.email = email;
         }
 
-
-
-
     }
 
